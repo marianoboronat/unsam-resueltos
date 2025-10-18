@@ -2,7 +2,7 @@
 
 Comparto los ejercicios resueltos para la materia “Programación 1”.
 
-## 📢ACLARACIONES Y SUGERENCIAS
+## 📢ACLARACION
 
 - **Los scripts NO son perfectos y están sujetos a ser corregidos**. Así que todo lo que escribí agarrenlo con pinzas y más. (incluso, más de uno debe estar mal resuelto…) 
 
